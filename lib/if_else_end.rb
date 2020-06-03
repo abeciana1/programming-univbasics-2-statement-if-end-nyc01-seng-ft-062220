@@ -1,2 +1,2 @@
 current_time = Time.now.sec
-if 
+if current_time % 2 == 0
